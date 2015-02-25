@@ -1,0 +1,21 @@
+<HTML>
+    <HEAD>
+        <TITLE>Tarea IPC 2</TITLE>
+        ...
+    </HEAD>
+
+    <BODY>
+        <table border="2px"> 
+           <tr>
+              <td>Celda 1</td>
+              <td>Celda 2</td>
+              <td>Celda 3</td>
+          </tr>
+          <tr>
+              <td>Jaime Ismael Belloso Garcia</td>
+              <td>Carnet: 201325557</td>
+              <td>C<IMG SRC="T.jpg"></td>
+          </tr>
+        </table>
+    </BODY>
+</HTML>
